@@ -1,0 +1,4 @@
+This is a text file
+To try and count words in lines
+There is words
+And more words
